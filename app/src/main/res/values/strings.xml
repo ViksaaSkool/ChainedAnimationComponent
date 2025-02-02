@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chained Animation Demo</string>
+
+    <string name="demo_button_1">Demo 1</string>
+    <string name="demo_button_2">Demo 2</string>
+    <string name="title_1">Welcome to</string>
+    <string name="title_2">Chained Animation Component</string>
+
+    <string name="demo_1_title">This is the title</string>
+    <string name="demo_1_subtitle">And now the subtitle</string>
+    <string name="demo_1_p1">This is the first paragraph.\n>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt finibus nulla at efficitur. Pellentesque scelerisque bibendum ante viverra consequat. </string>
+    <string name="demo_1_p2">This is the second paragraph.\n>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt finibus nulla at efficitur. Pellentesque scelerisque bibendum ante viverra consequat. Fusce mattis nulla blandit dolor lobortis, in commodo lorem rutrum. </string>
+    <string name="demo_1_p3">This is the third paragraph.\n>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt finibus nulla at efficitur. Pellentesque scelerisque bibendum ante viverra consequat. Fusce mattis nulla blandit dolor lobortis, in commodo lorem rutrum. Donec non mollis orci, id accumsan nibh. Etiam lacinia vitae dui quis hendrerit. Nam viverra, elit non dapibus ullamcorper, magna mauris laoreet orci, at fermentum metus arcu eu ex. Nullam dapibus, ante et accumsan dignissim, arcu risus fringilla mauris, ac lobortis quam sem vel lacus. Suspendisse eleifend pulvinar sem laoreet tincidunt. Cras mollis, ante a vehicula lobortis, risus neque placerat dolor, eget ornare libero tellus eget felis. Maecenas vel mattis lacus, quis dictum erat. Nullam eu erat mauris. Sed quis purus id odio imperdiet mattis sed ac neque. Proin quis dolor et lorem ullamcorper vestibulum quis vitae nibh.</string>
+
+    <string name="demo_2_text1">Hey, you know what?</string>
+    <string name="demo_2_text2">I have bad news</string>
+    <string name="demo_2_text3">The…</string>
+    <string name="demo_2_text4">…is not working</string>
+    <string name="demo_2_text5">And there\'s no</string>
+    <string name="demo_2_text6">today :(</string>
+</resources>
